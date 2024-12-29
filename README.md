@@ -1,4 +1,5 @@
-# Student Management System
+# Jdbc project
+# Student Management Syste
 * Description: Create a system to manage student records, including adding, updating, and deleting student details such as name, age, class, and grades.
 Features:
 * CRUD operations for student records.
